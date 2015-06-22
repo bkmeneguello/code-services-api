@@ -1,0 +1,21 @@
+{
+  "name": "code-services-api",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bkmeneguello/code-services-api",
+  "authors": [
+    "Bruno Kühnen Meneguello <bruno@meneguello.com>"
+  ],
+  "license": "GPL-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "qunit": "~1.18.0"
+  }
+}

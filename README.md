@@ -1,4 +1,6 @@
-# code-services-api
+Code Services API
+=================
+
 Coding Services API Specification
 
 GET /projects
